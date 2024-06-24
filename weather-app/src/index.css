@@ -10,5 +10,7 @@
 .app {
   min-height: 100vh;
   display: grid;
-  background: linear-gradient(135deg, #153677, #4e085f);
+  background: url(assets/mountains.svg), linear-gradient(135deg, #1f4e69 0, #164058 100%);
+  background-size: cover;
+
 }
